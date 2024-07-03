@@ -1,0 +1,14 @@
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.exe
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.deps.json
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.runtimeconfig.json
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.dll
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.pdb
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.dll
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\refint\DotNetDebugging.dll
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.pdb
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\kayeh\OneDrive\Documentos\estudos\DotNetDebugging\obj\Debug\net8.0\ref\DotNetDebugging.dll
